@@ -1,0 +1,23 @@
+{
+    "row": 0,
+    "consumer_key": "KEY_HERE",
+    "consumer_secret": "SECRET_HERE",
+    "access_token": "TOKEN_HERE",
+    "access_token_secret": "TOKEN_SECRET_HERE",
+    "timeout_ms": 10000,
+    "hashtags": "#put #your #hashtags #here",
+    "friday_hashtag": "#madewithunity",
+    "saturday_hashtag": "#screenshotsaturday",
+    "promo": "🎮 Wishlist on @steam! <inset link to steam>\n💬 Join the @discord! <discord link here>\n etc",
+    "promo_friday": "Check out our cool game",
+    "tweets": [
+        {
+            "image_path": "images/cool_gif_00.gif",
+            "text": "Our first image caption 👍!"
+        },
+        {
+            "image_path": "images/cool_gif_01.gif",
+            "text": "Our second image! 🌩🌩🌩"
+        }
+    ]
+}
