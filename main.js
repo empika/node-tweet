@@ -72,7 +72,7 @@ client.postMediaChunked({ file_path: pathToMovie }, function (error, data, respo
         }, function (error, tweet, response)
         {
             if (error) throw error;
-            console.log("Success updating ststus: " + tweet.id_str);
+            console.log("Success updating status: " + tweet.id_str);
         });
     }
 });

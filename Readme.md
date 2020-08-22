@@ -6,6 +6,7 @@ The script will compile a tweet from a given list and combine it with recuring t
 
 ## Setup
 
+* Install dependencies with `npm install`
 * Register your Twitter app at [https://developer.twitter.com/](https://developer.twitter.com/)
 * Copy or rename `config.json.example` to `config.json`
 * Edit `config.json`
